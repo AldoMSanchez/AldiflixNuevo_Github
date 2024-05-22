@@ -226,3 +226,14 @@ hr {
   background-color: rgba(0, 0, 0, 0.7);
   /* Puedes ajustar la opacidad aquí */
   z-index: -1; }
+
+  .service {
+    color: #ff0000; 
+    font-family: sans-serif;
+}
+
+.contacto {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color: chocolate;
+}
+
